@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NasiMentega
 - 👀 I’m interested in YOU
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Adobe Illustrator
 - 💞️ I’m looking to collaborate on UNITY
-- 📫 How to reach me anything
+- 📫 How to reach me? anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: find out yourself
 
