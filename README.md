@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NasiMentega
-- I like pixel art, i learning to be a game developer, i play many genres of games, i also enjoy many music genres
+- I like pixel art, i want to be a game developer, i play many genres of games, i also enjoy many music genres
 - you can go to NasiMentega.github.io/porto to see my current work, etc
 
 <!---
