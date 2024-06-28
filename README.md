@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @NasiMentega
-- 👀 I’m interested in YOU
-- 🌱 I’m currently learning Adobe Illustrator
-- 💞️ I’m looking to collaborate on UNITY
-- 📫 How to reach me? anything
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: find out yourself
+- I like pixel art, i learning to be a game developer, i play many genres of games, i also enjoy many music genres
+- you can go to NasiMentega.github.io/porto to see my current work, etc
 
 <!---
 NasiMentega/NasiMentega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
